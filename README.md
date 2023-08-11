@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-direction:column">
 <h1 align="center">Hi 👋, I'm Keshav Singh</h1>
-<h3 align="center">A passionate Creative Software Developer from India</h3>
+<h3 align="center">A passionate Creative Software Developer</h3>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction:column">
   <img alt="Coding" width="900" src="https://art.pixilart.com/cb97514d85c12ba.gif" style="display: block; margin: 0 auto;">
 </div>
