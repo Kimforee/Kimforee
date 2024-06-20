@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/keshav singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keshav-singh-kimforee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav singh" height="30" width="40" /></a>
 <a href="https://kaggle.com/kimforee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kimforee" height="30" width="40" /></a>
 <a href="https://instagram.com/keshavimperial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshavimperial" height="30" width="40" /></a>
-<a href="https://www.behance.net/keshav singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="keshav singh" height="30" width="40" /></a>
+<a href="https://www.behance.net/keshavsingh_kimforee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="keshav singh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/keshav imperial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keshav imperial" height="30" width="40" /></a>
 </p>
 
