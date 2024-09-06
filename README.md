@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on DSA
 
-- 🌱 Mastering **Flutter**
+- 🌱 Mastering **Full Stack Dev**
 
 - ⚡ Fun fact **I used to be a developer at Raccoon Federation**
 
