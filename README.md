@@ -31,9 +31,10 @@
 | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55"/> |
 
 ### Frameworks and Libraries:
-| Django | Flutter |   Qt   | Pandas | NumPy | Matplotlib |  RestAPI  |
+| Django | Flutter |   Qt   | Pandas | NumPy | RestAPI  | Flask |
 |----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RestAPI" width="55" height="55"/> |
+| <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="55" height="55"/> |<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RestAPI" width="55" height="55"/> | <img  alt="NumPy" width="55" height="55" src="https://github.com/user-attachments/assets/8bf7e38c-fe63-4e14-adb3-79ee74ac1e39" />
+
 
 ### Tools:
 | Git | Docker | Figma | VSCode | MATLAB |
