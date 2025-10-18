@@ -2,12 +2,11 @@
 <h1 align="center">Hi 👋, I'm Keshav Singh</h1>
 
 <h3 align="center">A Passionate Creative Software Developer</h3>
-<div style="text-align: center;">
-  <img alt="Coding" width="900" src="https://art.pixilart.com/cb97514d85c12ba.gif" style="display: block; margin: 0 auto;">
-</div>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimforee&label=Profile%20views&color=0e75b6&style=flat" alt="kimforee" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kimforee&show_icons=true&theme=transparent" alt="kimforee" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimforee&show_icons=true&locale=en&layout=compact&theme=transparent" alt="kimforee" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kimforee&show_icons=true&locale=en&layout=compact&theme=transparent" alt="kimforee" height="165"/>
+</p>
 
 - 🔭 I’m currently working on DSA
 
@@ -46,8 +45,8 @@
 |----------|----------|
 | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="55" height="55"/> |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimforee&show_icons=true&locale=en&layout=compact" alt="kimforee" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimforee&show_icons=true&locale=en&layout=compact" alt="kimforee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimforee&" alt="kimforee" /></p>
 </div>
- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
